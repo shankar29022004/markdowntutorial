@@ -136,3 +136,6 @@ ____________________________
 
 > Now I have added the Readme .md file
 
+![GitHub Logo](./pngegg.png)
+
+![cheatsheet]([text](https://quickref.me/markdown))
