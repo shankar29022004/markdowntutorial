@@ -117,3 +117,8 @@ printf("Hello Banashankar");
 
 
 
+### to clone this repo type
+
+```bash
+git clone hello World
+```
